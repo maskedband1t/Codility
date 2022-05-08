@@ -39,3 +39,8 @@ class OddOccurrencesInArray {
     }
 }
 
+/*
+	Detected time complexity:
+	O(N) or O(N*log(N)) -> 100%
+*/
+
