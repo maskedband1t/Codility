@@ -1,5 +1,7 @@
 /*
 	PROMPT:
+		Scenario:
+		
 		Conditions:
 	
 		Write a function that:
