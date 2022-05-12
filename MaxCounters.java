@@ -72,7 +72,7 @@ class MaxCounters {
 
 
 /*
-	Detected time complexity:
+	Detected time complexity: O(N + M)
 
 */
 
